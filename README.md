@@ -1,5 +1,5 @@
 # Target-Objective
-##Um softwares simples mas funcional para o gerenciamento de objetivos
+Um softwares simples mas funcional para o gerenciamento de objetivos
 
 Descrição: Você verá duas áreas para escrever:
 A primeira é para os objetivos.
