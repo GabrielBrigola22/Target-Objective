@@ -9,7 +9,7 @@ Salvar clicando no botão "Salvar" no canto inferior esquerdo.
 Carregar um objetivo existente clicando no botão "Carregar".
 Este software utiliza arquivos JSON para armazenar suas informações.
 
-#-- ESTE SOFTWARE UTILIZA JAVA 23 (JDK 23) --
+-- ESTE SOFTWARE UTILIZA JAVA 23 (JDK 23) --
 
 Caso você não tenha o Java instalado no seu computador, siga uma das opções abaixo:
 
